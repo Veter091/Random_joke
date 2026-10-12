@@ -1,0 +1,12 @@
+.joke-text {
+    font-size: 20px;
+}
+
+.joke-answer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.joke-indicator {
+    margin-top: 10px;
+}
